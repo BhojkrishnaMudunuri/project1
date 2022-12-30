@@ -1,7 +1,7 @@
 # project-for-FRT-
 # 🥳👀LooK🤩
 ## finalpro:Future Ready Talent Project By Bhoj Krishna Mudunuri
-##   Fashion Website
+##   BARBER Website
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
