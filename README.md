@@ -22,6 +22,7 @@ Primary Azure Technology      :  Static Web Apps, Azure Health Bot.
 Static Web App URL : https://lively-forest-072cd0500.2.azurestaticapps.net
 
 Azure Health Bot URL : https://lively-forest-072cd0500.2.azurestaticapps.net/healthbot.html
+
 ##PROJECT-DEMO VIDEO URL:https://drive.google.com/drive/u/1/folders/1B1INrjrCcVm5NrH1_a33Oy6oEaeWaFlO
 
 ## MY WEBSITE LINK IS : https://lively-forest-072cd0500.2.azurestaticapps.net/
