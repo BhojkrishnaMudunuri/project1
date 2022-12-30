@@ -1,39 +1,36 @@
-# ✨  BARBER-Best Hair Saloon ✨
+# project-for-FRT-
+# 🥳👀LooK🤩
+## finalpro:Future Ready Talent Project By Bhoj Krishna Mudunuri
+##   Fashion Website
 
-This is a web based application developed for health related based website in india
+Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+Web Technologies used: HTML, CSS, JS.
 
+IDE           : VS-Code
 
-**Project Link** -https://brave-sand-0a4cf2e00.2.azurestaticapps.net
-**project demo video link** - 
+Industry      : Lifestyle
 
-## Azure technologies used for Project
+Project Title : BARBER-The Best Hair Saloon
 
-- Static web apps
-- Health bot
+Problem Statement/Opportunity : Good  hairstyle and appearance Is needed for evrey person.
 
-## Features and Functionalities 😃
+Project Description           :  Best Saloon  Will give the neat  appearance.
 
-- Interactive and responsive UI.
-- Has many graphical and visual innovative effects.
-- Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
-- User can know about health information through this website.
-- Included the feedback Survey form to increase the scope of improvement 
+Primary Azure Technology      :  Static Web Apps, Azure Health Bot.
 
-## Screenshots
-![2022-11-18](https://user-images.githubusercontent.com/117568017/202712858-d9d392fa-915f-4162-9740-bfbbb9c45dd3.png)
-![2022-11-18 (1)](https://user-images.githubusercontent.com/117568017/202712865-3ae1067e-4002-4093-b66a-9ce324fa8e0e.png)
-![2022-11-18 (2)](https://user-images.githubusercontent.com/117568017/202712867-cc81336c-b4eb-4b53-959f-32075abd6824.png)
-![2022-11-18 (3)](https://user-images.githubusercontent.com/117568017/202712870-eed9332c-b68c-446e-b4d0-8f09a0a5954b.png)
+Static Web App URL : https://lively-forest-072cd0500.2.azurestaticapps.net
 
+Azure Health Bot URL : https://lively-forest-072cd0500.2.azurestaticapps.net/healthbot.html
 
+## MY WEBSITE LINK IS : https://lively-forest-072cd0500.2.azurestaticapps.net/
 
-## Tech Stack 💻
-
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
+SCREENSHOTS:
+![s1](https://user-images.githubusercontent.com/117568017/210073263-d12a862c-98ff-4498-bcd5-436a3d157648.png)
+![s2](https://user-images.githubusercontent.com/117568017/210073269-2d820751-0178-44a0-93de-fd29fe657dbb.png)
+![s3](https://user-images.githubusercontent.com/117568017/210073270-2f821d50-f007-4424-8b77-b295b845de29.png)
+![s4](https://user-images.githubusercontent.com/117568017/210073272-48c03684-7bb7-451d-b795-bac7a00efa09.png)
+![s5](https://user-images.githubusercontent.com/117568017/210073273-cb7fdbd5-5f20-41df-ab48-148318c95684.png)
+![s6](https://user-images.githubusercontent.com/117568017/210073275-0dec8847-b471-4f3b-b544-13b881d69ff4.png)
+![s7](https://user-images.githubusercontent.com/117568017/210073279-20f4abda-98cc-4298-b829-6ca0951a67cd.png)
+![s8](https://user-images.githubusercontent.com/117568017/210073283-a846f55f-ef65-4e6b-a8de-948fa6be1b1e.png)
